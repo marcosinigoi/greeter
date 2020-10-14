@@ -1,6 +1,6 @@
 #!/bin/bash
 
 # Program to say hello or hola
-name="Baby"
+name="Baby Blue"
 echo "Hola ${name}"
 
