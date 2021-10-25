@@ -4,3 +4,6 @@
 name="Baby Blue"
 echo "Hola ${name}"
 
+#add 2nd phrase
+
+echo "It's nice to see you again"
